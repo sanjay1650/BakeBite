@@ -1,8 +1,8 @@
-# 🍪 CookieCraveHub - E-commerce
+# 🍪 BakeBite - E-commerce
 
 **"Irresistible Crumbs Delivered Fresh"**
 
-CookieCraveHub is a high-performance, premium e-commerce platform built for a gourmet cookie business. It features a modern tech stack centered around speed, scalability, and beautiful aesthetics.
+Bakebite is a high-performance, premium e-commerce platform built for a gourmet cookie business. It features a modern tech stack centered around speed, scalability, and beautiful aesthetics.
 
 ## 🚀 Tech Stack
 
@@ -60,4 +60,4 @@ CookieCraveHub is a high-performance, premium e-commerce platform built for a go
 - **Modern Syntax**: React 18 concurrent features for smooth transitions.
 
 ---
-*Created by Antigravity*
+*Created by Sanjay*
