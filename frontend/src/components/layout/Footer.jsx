@@ -8,11 +8,15 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-20">
           {/* Brand */}
           <div className="space-y-6">
-            <Link to="/" className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-cookie rounded-lg flex items-center justify-center shadow-md">
-                <span className="text-white font-bold text-xl">C</span>
+            <Link to="/" className="flex items-center gap-3 group">
+              <div className="w-12 h-12 flex items-center justify-center overflow-hidden group-hover:rotate-12 transition-transform duration-500">
+                <img 
+                  src="/logo.png" 
+                  alt="BakeBite" 
+                  className="w-full h-full object-contain mix-blend-multiply scale-110" 
+                />
               </div>
-              <span className="text-2xl font-display font-bold text-cookie-dark">
+              <span className="text-2xl font-display font-extrabold text-cookie-dark group-hover:text-cookie transition-colors tracking-tighter">
                 BAKEBITE
               </span>
             </Link>
